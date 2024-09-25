@@ -228,7 +228,7 @@ pre,
 code,
 kbd,
 samp {
-	font-family: "Playfair Display"
+	font-family: "Playfair Display", Georgia, serif;
 	font-size: 1em;
 }
 
